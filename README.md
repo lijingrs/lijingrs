@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: programming for fun
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lijing5227)]()
-
 
